@@ -1,0 +1,18 @@
+En el stadium Hernando Siles se tiene un partido importante para las clasificatorias
+, se ponen a la venta ENTRADA
+
+Equipo Local --> Bolivia (nombre, numero integrantes,ranking)
+Equipo Visitante --> Brasil (nombre, numero integrantes,ranking)
+Numero Asiento --> 1,2,3,4,5 *****
+Fecha --> 10/10/2022
+Lugar --> La Paz
+Stadium ---> (nombre,capacidad)
+Precio --> 100
+Persona --> ******* (nombre,ci)
+
+crear varias entradas (4)
+* IEntrada <--- IPrototype clone()
+* Entrada <--- ConcretePrototype
+* Equipo
+* Stadium
+* Persona
